@@ -12,6 +12,7 @@
 
 
 <hr>
+
 ## Equipo de Trabajo
 #### Brayan Restrepo Isaza
 #### Robinson Alexis Torres Zorrilla
