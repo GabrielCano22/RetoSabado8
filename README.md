@@ -9,3 +9,11 @@
 #### *Calcular el area con (w,h)
 #### *Calcular el perimetro con (w,h)
 #### *Graficar
+
+
+<hr>
+## Equipo de Trabajo
+#### Brayan Restrepo Isaza
+#### Robinson Alexis Torres Zorrilla
+#### Mateo Quintero Zapata
+#### Gabriel Jaime Cano Oquendo
