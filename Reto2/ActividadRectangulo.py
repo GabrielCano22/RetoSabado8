@@ -1,7 +1,8 @@
+#Se piden los datos del rectangulo por teclado
 
-
-def pintar(lista):
- #   lista=[5,10]
-    for i in range(lista[0]):
-        print(lista[1]*'*')
-   
+print("###Programa del rectángulo###")
+ancho = int(input("Por favor ingrese el ancho del rectángulo: "))
+alto = int(input("Por favor ingrese el alto del rectángulo: "))
+area = int(ancho * alto)
+print(f'El area del rectangulo es: ') 
+print(area) 
