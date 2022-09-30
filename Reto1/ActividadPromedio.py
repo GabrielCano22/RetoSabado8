@@ -18,4 +18,8 @@ def sumarDatosArray(numeros):
         suma+=i       
     return suma,len(numeros)
 datos=list(sumarDatosArray(numeros))
+def promediar(datos):
+    prom=float(datos[0]/datos[1])
+    print(f'la suma de los datos ingreados es: {datos[0]} y el promedio es: {prom}')
+promediar(datos)
 print(datos)
